@@ -1,0 +1,2 @@
+# MarketingNinja
+Homework 1
